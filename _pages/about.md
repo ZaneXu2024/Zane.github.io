@@ -14,7 +14,7 @@ My research interests are international Trade and Labor Economics. Firstly, l fo
 
 I aim to find a postdoctoral position in 2025.
 
-You can find my CV here: [Lishuang's Curriculum Vitae](com/assets/LishuangHuang_cv2024.pdf)
+You can find my CV here: [Lishuang's Curriculum Vitae](assets/LishuangHuang_cv2024.pdf)
 
 
 
