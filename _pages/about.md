@@ -24,6 +24,26 @@ Research Interest
 - Taxation
 - Labor Economics
 
+Education
+======
+* Visiting Ph.D. student,University of Mannheim, 2024 
+* Ph.D. in Economics,Jinan University, 2025 (expected)
+* M.S. in Economics,Jinan University, 2019
+* B.S. in Management, Guangdong University of Finance, 2017
+
+Work experience
+======
+* 2019-present: Lecturer
+  * Guangzhou College of Commerce
+
+* 2018: Research Internship
+  * China Guangfa Bank
+
+Publications
+======
+
+* [Growth of Tax revenue in Macao since the return. National Fiscal Research,2019(10):67-74. (In Chinese)](https://github.com/LishuangHuang/com/assets/Macau.pdf)
+
 Contact Information
 ======
 
