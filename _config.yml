@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Lishuang Huang"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Lishuang Huang"
 description              : &description "personal description"
 url                      : "https://lishuanghuang.github.io/com/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
