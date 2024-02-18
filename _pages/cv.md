@@ -27,7 +27,7 @@ Work experience
 Publications
 ======
 
-* [Growth of Tax revenue in Macao since the return. Sub National Fiscal Research,2019(10):67-74. (In Chinese)](com/files/澳门回归以来的税收收入增长.pdf)
+* [Growth of Tax revenue in Macao since the return. Sub National Fiscal Research,2019(10):67-74. (In Chinese)](com/files/Macau.pdf)
 * 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
