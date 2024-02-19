@@ -30,13 +30,9 @@ Publications
 * [Growth of Tax revenue in Macao since the return. National Fiscal Research,2019(10):67-74. (In Chinese)](https://lishuanghuang.github.io/com/assets/Macau.pdf)
 * [Reference of Hong Kong's Tax Assessment System to the Mainland. Finance and Accounting for International Commerce,2021(07):83-85.
 (In Chinese)](https://lishuanghuang.github.io/com/assets/Hongkong.pdf)
-*
-*
-*   
- 
   
 
-Work paper
+Working paper
 ======
 * Trade Liberization and Labor Market Power: Evidence form Chian
   * GWe find evidence of labor market monopsony power from 1998 to 2007 in the Chinese labor market, with an average wage markdown of 1.186. There is a declining trend in average markdown rates over time. Import competition exposure is associated with increased labor market concentration, while trade liberalization improves employment and wages but reduces the number of firms. If a firm wishes to attract 1 percent of its local competitors' current employment, it would need to increase its wage premium by 0.5106 percent. Similarly, if a market desires to attract 1 percent of its local competitors' current employment, it would have to raise its wage premium by 1.1993 percent, indicating that labor mobility across markets requires higher wage compensation.
