@@ -30,7 +30,6 @@ Publications
 * [Manman Huang and Lishuang Huang(2019).Growth of Tax revenue in Macao since the return. National Fiscal Research. (In Chinese)](https://lishuanghuang.github.io/com/assets/Macau.pdf)
 * [Lishuang Huang(2021).Reference of Hong Kong's Tax Assessment System to the Mainland. Finance and Accounting for International Commerce.
 (In Chinese)](https://lishuanghuang.github.io/com/assets/Hongkong.pdf)
-  
 
 Working paper
 ======
@@ -44,15 +43,10 @@ Skills
 ======
 * Stata
 * Python
-
-
-
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Accounting Principle
   
 Service and leadership
 ======
