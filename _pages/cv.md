@@ -20,6 +20,7 @@ Work experience
 ======
 * 2019-present: Lecturer
   * Guangzhou College of Commerce
+  * Department of Accounting
 
 * 2018: Research Internship
   * China Guangfa Bank
