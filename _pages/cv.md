@@ -24,6 +24,7 @@ Work experience
 
 * 2018: Research Internship
   * China Guangfa Bank
+  * Department of Credit Management 
 
 Publications
 ======
