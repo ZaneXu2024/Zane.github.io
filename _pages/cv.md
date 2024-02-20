@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Visiting Ph.D. student,University of Mannheim, 2024 
-* Ph.D. in Economics,Jinan University, 2025 (expected)
-* M.S. in Economics,Jinan University, 2019
+* Visiting Ph.D. student, University of Mannheim, 2024 
+* Ph.D. Candidate in Economics, Jinan University, 2025 (expected)
+* M.S. in Economics, Jinan University, 2019
 * B.S. in Management, Guangdong University of Finance, 2017
 
 Work experience
