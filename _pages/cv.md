@@ -31,7 +31,7 @@ Publications
 
 * Manman Hu, Lishuang Huang(2019). Growth of Tax revenue in Macao since the return.Sub National Fiscal Research.
   - [Published version(Chinese)](https://lishuanghuang.github.io/assets/Macau.pdf)   [Translation(English)](https://lishuanghuang.github.io/assets/Macau_eng.pdf)
-* Lishuang Huang(2021). Reference of Hong Kong's Tax Assessment System to the Mainland. Finance and Accounting for International Commerce.
+* Lishuang Huang(2021). Hong Kong's tax assessment system and its reference to the mainland. Finance and Accounting for International Commerce.
   - [Published version(Chinese)](https://lishuanghuang.github.io/assets/Hongkong.pdf)   [Translation(English)](https://lishuanghuang.github.io/assets/Hongkong_eng.pdf)
 
 Working paper
