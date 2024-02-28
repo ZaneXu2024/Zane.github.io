@@ -38,7 +38,7 @@ Working paper
   - If a firm wishes to attract 1 percent of its local competitors' current employment, it would need to increase its wage premium by 0.5106 percent. Meanwhile, if a market desires to attract 1 percent of its local competitors' current employment, it would have to raise its wage premium by 1.1993 percent, indicating that labor mobility across markets requires higher wage compensation.
 
 * Hukou Reform, Skill Training, and Integration of Migrants
-  * Based on data of the China Labor Dynamics Survey from 2012 to 2018, after the hukou reform(2014),to meet the requirement of hukou registeration, the probability of participation in training by migrants has significantly increased, with an increase of about three times that of local residents.
+  * Based on data of the China Labor Dynamics Survey from 2012 to 2018,to meet the requirement of hukou registeration,  after the hukou reform(2014) ,the probability of participation in training by migrants has significantly increased, with an increase of about three times that of local residents.
   * The higher settlement thresholds of the city, the higher probability of migrants' participation in training , and self-funding for training is more likely.
   * Migrants with educational levels of college or below and aged 40 and below are more likely to participate in training. These findings validate the settlement motivations of mobile populations in participating in training.
   * Training can increase individual income, but compared to local residents, there is a  lower skill matching and weaker externalities on the labor market. However, training contributes to the social integration of migrants in their living cities. 
