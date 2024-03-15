@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* 2019-present: Lecturer
+* 2019-2021: Lecturer
   * Guangzhou College of Commerce
   * Department of Accounting 
 
