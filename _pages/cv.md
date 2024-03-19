@@ -38,7 +38,8 @@ Working paper
   - If a firm wishes to attract 1 percent of its local competitors' current employment, it would need to increase its wage premium by 0.5106 percent. Meanwhile, if a market desires to attract 1 percent of its local competitors' current employment, it would have to raise its wage premium by 1.1993 percent, indicating that labor mobility across markets requires higher wage compensation.
 
 * Training for Hukou: Evidence from China [Pdf](https://lishuanghuang.github.io/assets/training for hukou.pdf)
-  This paper exploits a unique feature of migrants training to get a hukou(household registration in urban city). Based on the China Labor-Force Dynamics Survey(CLDS), the participation rate in training has significantly increased after the hukou reform. The higher the hukou requirements, the larger the participation rate of migrants, with training funds more likely to be self-financed.This phenomenon is attributed to getting bonus points related to the hukou system through training. Besides, migrants with less than a bachelor's degree or less than 40 years old are more likely to train. Training for hukou can improve individual income. However, the income increment for migrants is 62.08\% less than the natives, coupled with a low skill mismatch. Despite these skill mismatches and less favorable spillover effects, training facilitates the social integration of migrants into their cities of residence.  Our paper highlights the misallocation caused by the Chinese-style training motivation and has general implications for other countries. 
+  - Based on the hukou reform of China, we exploit a unique feature of migrants training to get a hukou(household registration in an urban city), and highlight the misallocation caused by the Chinese-style training motivation. 
+  
   
 Skills
 ======
