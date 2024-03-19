@@ -32,7 +32,7 @@ Publications
 
 Working paper
 ======
-* Trade Liberization and Labor Market Power: Evidence form China
+* Trade Liberalization and Labor Market Power: Evidence from China
   - We find evidence of labor market monopsony power from 1998 to 2007 in the Chinese labor market, with an average wage markdown of 1.186. There is a declining trend in average markdown rates over time.
   - Import competition exposure is associated with increased labor market concentration, while trade liberalization improves employment and wages but reduces the number of firms.
   - If a firm wishes to attract 1 percent of its local competitors' current employment, it would need to increase its wage premium by 0.5106 percent. Meanwhile, if a market desires to attract 1 percent of its local competitors' current employment, it would have to raise its wage premium by 1.1993 percent, indicating that labor mobility across markets requires higher wage compensation.
