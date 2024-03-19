@@ -33,7 +33,7 @@ Publications
 Working paper
 ======
 * Training for Hukou: Evidence from China [Pdf](https://lishuanghuang.github.io/assets/training for hukou.pdf)
-  - Based on the hukou reform of China, we exploit a unique feature of migrants training to get a hukou(household registration in an urban city), and highlight the misallocation caused by the Chinese-style training motivation.
+  - Based on the hukou reform of China, we exploit a unique feature of migrants training to get a hukou(household registration in an urban city) and highlight the misallocation caused by the Chinese-style training motivation.
 
 In progress
 ======
