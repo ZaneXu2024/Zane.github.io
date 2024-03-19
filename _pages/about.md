@@ -25,9 +25,8 @@ Research Interest
 Contact Information
 ======
 
-Department of Economics, University of Mannheim
 
-B6, 28-30, 68161
+B6, 28-30, Mannheim,Germany, 68161
 
 
 Email: lishuanghuanggz@163.com
