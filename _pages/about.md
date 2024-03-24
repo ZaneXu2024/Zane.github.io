@@ -29,5 +29,5 @@ Contact Information
 B6, 28-30, Mannheim,Germany, 68161
 
 
-Email: lishuanghuanggz@163.com
+Email: lishuanghuangecon@gmail.com
 
