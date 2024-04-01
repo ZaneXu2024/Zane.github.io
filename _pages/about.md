@@ -16,7 +16,7 @@ I aim to find a postdoctoral position in 2025. You can find my CV here: [Lishuan
 
 Research Interest
 ======
-- International Trade
+- Trade
 - Taxation
 - Labor Economics
 
